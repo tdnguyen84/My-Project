@@ -9,4 +9,4 @@
 - [ ] Build green and merged to master
 - [ ] Update release notes on Confluece
 - [ ] Product reviewed
-- [ ] Deployed to gondor-internal
+
